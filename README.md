@@ -82,7 +82,7 @@ Quando houver mais de uma opção, explique o motivo da escolha.
 
   Isso mostra como pequenos ajustes no prompt (pedir estrutura explícita) e na curadoria da fonte melhoram significativamente a utilidade da resposta para revisão futura.
 
-> 📄 O registro completo das perguntas e respostas testadas está documentado em [`interacoes-notebooklm.md`](./interacoes-notebooklm.md).
+>  O registro completo das perguntas e respostas testadas está documentado em [`interacoes-notebooklm.md`](./interacoes-notebooklm.md).
 
 **Cicatriz 2 — Ambiguidade em pedidos abertos (ex.: mala cápsula)**
 
@@ -178,4 +178,3 @@ Quais acessórios valorizam um look discreto sem perder elegância, considerando
 ---
 
 *Projeto desenvolvido para o desafio de projeto da [DIO](https://www.dio.me/) utilizando NotebookLM.*
-
