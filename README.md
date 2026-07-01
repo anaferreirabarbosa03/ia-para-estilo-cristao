@@ -92,7 +92,7 @@ Quando houver mais de uma opção, explique o motivo da escolha.
 
 ---
 
-## Miniguia de Estudo (Entrega Final)
+## Miniguia de Estudo 
 
 ### 1. Resumos Estruturados
 
