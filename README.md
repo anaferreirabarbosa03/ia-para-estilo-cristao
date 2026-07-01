@@ -177,4 +177,11 @@ Quais acessórios valorizam um look discreto sem perder elegância, considerando
 
 ---
 
+## Acesso ao Notebook
+
+- [Notebook no NotebookLM](https://notebooklm.google.com/notebook/88e745c8-8f01-4d9e-8030-c06ce70acfd1)
+- Screenshots das interações estão disponíveis na pasta `/prints` deste repositório
+
+---
+
 *Projeto desenvolvido para o desafio de projeto da [DIO](https://www.dio.me/) utilizando NotebookLM.*
